@@ -1,3 +1,4 @@
+Problem Link: https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/?envType=daily-question&envId=2025-09-06
 class Solution {
     public:
         long long minOperations(vector<vector<int>>& queries) {
